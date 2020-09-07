@@ -34,7 +34,7 @@ DAVICOMMERCE é um projeto Open Source desenvolvido  utilizando as tecnologias J
 <h1 align="center">
   <img  src="https://github.com/Spinnafre/DAVICOMMERCE/blob/master/Search-Menu.gif" alt="gif do app" width=60% height=60%>
 </h1>
-<h3 align="center">Detalhes do produto, Criar Comentários e adiconar np Carrinho</h3>
+<h3 align="center">Detalhes do produto, Criar Comentários e Carrinho</h3>
 <h1 align="center">
   <img  src="https://github.com/Spinnafre/DAVICOMMERCE/blob/master/Detail-Product.gif" alt="gif do app" width=60% height=60%>
 </h1>
