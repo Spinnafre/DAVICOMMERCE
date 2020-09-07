@@ -1,0 +1,47 @@
+.ContentArea-Profile {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+}
+.Profile {
+  width: 20%;
+}
+.MyOrders-Table-Container {
+  margin-left: 2rem;
+}
+.MyOrders-Table {
+  background-color: rgb(247, 247, 247);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  border-radius: 0.8rem;
+}
+.container-profile-form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.button-logout {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 4rem;
+  font-size: 2rem;
+  padding: none;
+  border: 0.1rem solid rgb(180, 178, 178);
+  border-radius: 0.8rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+.button-logout svg {
+  margin-left: 0.8rem;
+}
+.button-logout:hover {
+  background-color: rgb(227, 229, 231);
+}
+.CustomAvatar-image {
+  border-radius: 50%;
+  justify-self: center;
+  align-self: center;
+  margin-top: 2.5rem;
+}

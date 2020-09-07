@@ -1,0 +1,87 @@
+.ContentPayment {
+  max-width: 40rem;
+  margin: 0 auto;
+
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+label {
+  display: inline;
+}
+.buttons {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 4rem;
+  font-size: 2rem;
+  padding: none;
+  border: 0.1rem solid rgb(180, 178, 178);
+  border-radius: 0.8rem;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+.container-button {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container-button span {
+}
+.primary {
+  background: rgb(247, 161, 91);
+  color: aliceblue;
+  margin-top: 1.2rem;
+  margin-bottom: 1.2rem;
+}
+.Form-Container .buttons:hover {
+  background: rgb(226, 148, 84);
+}
+
+/* Form */
+
+.Form-Container {
+  background-color: rgb(247, 247, 247);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+  border-radius: 0.8rem;
+  padding: 2rem 0.9rem 2rem 0.9rem;
+}
+
+/* Icons Payment Methods */
+.Container-Payment-Icons{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+}
+.Container-Payment-Icons li{
+  display: flex;
+  align-items: center;
+
+}
+.Container-Payment-Icons li svg{
+  margin-left: 0.8rem;
+
+
+}
+/* ------------------------ */
+
+/* No cart Container */
+.No-cart-Container{
+  margin-top: 2rem;
+  display: flex;
+  align-items: center;
+}
+.No-cart-Container span{
+  font-size: 2rem;
+  margin-right: 0.8rem;
+}
+
+
+/* --------------------- */
