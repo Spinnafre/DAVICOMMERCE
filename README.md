@@ -60,7 +60,7 @@ O projeto tem como finalidade estabelecer uma conexão entre empresas e/ou entid
 
 #### **Utilitários**
 
-- Editor: **[Visual Studio Code][vscode]** &rarr; Extensions: **<kbd>[SQLite][vscode_sqlite_extension]</kbd>**
+- Editor: **[Visual Studio Code][vscode]** &rarr; 
 - Commit Conventional: **[Commitlint][commitlint]**
 - Teste de API: **[Insomnia][insomnia]**
 - Ícones: **[Feather Icons][feather_icons]**, **[Font Awesome][font_awesome]**, **[Bootstrap][bootstrap]**, **[Ionicons][Ionicons**
