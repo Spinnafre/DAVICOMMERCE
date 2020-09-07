@@ -148,5 +148,5 @@ O projeto tem como finalidade estabelecer uma conexão entre empresas e/ou entid
 
 
 
-Feito com ♥ by D@vi$
+<h2 align="center">Feito com ❤️ por <a href="https://github.com/Spinnafre/">Davi Silva</a></h2>
 
