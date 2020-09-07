@@ -5,7 +5,10 @@
 DAVICOMMERCE é um projeto Open Source desenvolvido  utilizando as tecnologias Javascript, Node, MongoDB e React.
 
 </h3>
-![Banner](https://github.com/Spinnafre/DAVICOMMERCE/blob/master/Home.gif)
+
+<h1 align="center">
+  <img  src="https://github.com/Spinnafre/DAVICOMMERCE/blob/master/Home.gif" alt="gif do app" width=60% height=60%>
+</h1>
 
 ## **:rocket: OBJETIVO**
 
