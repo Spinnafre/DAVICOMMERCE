@@ -26,9 +26,45 @@ DAVICOMMERCE é um projeto Open Source desenvolvido  utilizando as tecnologias J
 15. Filtrar por Categorias
 16. Filtrar por preço
 
-
+<h3 align="center">Tela inicial do Administrador</h3>
 <h1 align="center">
   <img  src="https://github.com/Spinnafre/DAVICOMMERCE/blob/master/Home.gif" alt="gif do app" width=60% height=60%>
+</h1>
+<h3 align="center">Pesquisando por categorias</h3>
+<h1 align="center">
+  <img  src="https://github.com/Spinnafre/DAVICOMMERCE/blob/master/Search-Menu.gif" alt="gif do app" width=60% height=60%>
+</h1>
+<h3 align="center">Detalhes do produto, Criar Comentários e adiconar np Carrinho</h3>
+<h1 align="center">
+  <img  src="https://github.com/Spinnafre/DAVICOMMERCE/blob/master/Detail-Product.gif" alt="gif do app" width=60% height=60%>
+</h1>
+<h3 align="center">Pagamento</h3>
+<h1 align="center">
+  <img  src="https://github.com/Spinnafre/DAVICOMMERCE/blob/master/Payment-Product.gif" alt="gif do app" width=60% height=60%>
+</h1>
+
+
+<h3 align="center">Tela de Encomendas do editor</h3>
+<h1 align="center">
+  <img  src="https://github.com/Spinnafre/DAVICOMMERCE/blob/master/Editor-%20Estoque.png" alt="gif do app" width=60% height=60%>
+</h1>
+<h3 align="center">Tela de criar produtos</h3>
+<h1 align="center">
+  <img  src="https://github.com/Spinnafre/DAVICOMMERCE/blob/master/Criar-Produto.gif" alt="gif do app" width=60% height=60%>
+</h1>
+<h3 align="center">Atualizar produto</h3>
+<h1 align="center">
+  <img  src="https://github.com/Spinnafre/DAVICOMMERCE/blob/master/Crud-Produto.gif" alt="gif do app" width=60% height=60%>
+</h1>
+
+
+<h3 align="center">Login</h3>
+<h1 align="center">
+  <img  src="https://github.com/Spinnafre/DAVICOMMERCE/blob/master/Login.png" alt="gif do app" width=60% height=60%>
+</h1>
+<h3 align="center">Registrar</h3>
+<h1 align="center">
+  <img  src="https://github.com/Spinnafre/DAVICOMMERCE/blob/master/Registrar.png" alt="gif do app" width=60% height=60%>
 </h1>
 
 ## **:rocket: OBJETIVO**
