@@ -146,3 +146,7 @@ O projeto tem como finalidade estabelecer uma conexão entre empresas e/ou entid
 
 [react_dropzone]: https://github.com/react-dropzone/react-dropzone
 
+
+
+Feito com ♥ by D@vi$
+
