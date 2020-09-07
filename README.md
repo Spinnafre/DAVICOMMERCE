@@ -6,6 +6,27 @@ DAVICOMMERCE é um projeto Open Source desenvolvido  utilizando as tecnologias J
 
 </h3>
 
+## 💻 Projeto
+### :mahjong: Funcionalidades
+
+1. Criar Usuário (Registrar)
+2. Editar Usuário (Nome, Email e senha)
+3. Criar Produtos - Somente ADM
+4. Editar Produtos - Somente ADM
+5. Deletar Produtos - Somente ADM
+6. Listar Produtos
+7. Criar Encomenda (Pedido)
+8. Listar Encomendas (Pedidos)
+9. Deletar Encomendas (Pedidos) - Somente ADM
+10. Criar Comentários nos produtos (Avaliação)
+11. Listar comentários de um produto específico
+12. Adicionar produto do carrinho
+13. Remover produto do carrinho
+14. Filtrar por Nome
+15. Filtrar por Categorias
+16. Filtrar por preço
+
+
 <h1 align="center">
   <img  src="https://github.com/Spinnafre/DAVICOMMERCE/blob/master/Home.gif" alt="gif do app" width=60% height=60%>
 </h1>
@@ -18,7 +39,7 @@ O projeto tem como finalidade estabelecer uma conexão entre empresas e/ou entid
 ## **:computer: TECNOLOGIAS**
 
 
-#### **Website** ([React][react] + [TypeScript][typescript])
+#### **Website** ([React][react]
 
   - **[React Router Dom][react_router_dom]**
   - **[React Icons][react_icons]**
@@ -27,7 +48,7 @@ O projeto tem como finalidade estabelecer uma conexão entre empresas e/ou entid
 
 
 
-#### **Server** ([NodeJS][node] + [TypeScript][typescript])
+#### **Server** ([NodeJS][node]
 
   - **[Express][express]**
   - **[CORS][cors]**
@@ -42,7 +63,7 @@ O projeto tem como finalidade estabelecer uma conexão entre empresas e/ou entid
 - Editor: **[Visual Studio Code][vscode]** &rarr; Extensions: **<kbd>[SQLite][vscode_sqlite_extension]</kbd>**
 - Commit Conventional: **[Commitlint][commitlint]**
 - Teste de API: **[Insomnia][insomnia]**
-- Ícones: **[Feather Icons][feather_icons]**, **[Font Awesome][font_awesome]**
+- Ícones: **[Feather Icons][feather_icons]**, **[Font Awesome][font_awesome]**, **[Bootstrap][bootstrap]**, **[Ionicons][Ionicons**
 
 
 ## **:books: REFERÊNCIAS**
@@ -62,8 +83,6 @@ O projeto tem como finalidade estabelecer uma conexão entre empresas e/ou entid
 <!-- Techs -->
 
 [react]: https://reactjs.org/
-
-[typescript]: https://www.typescriptlang.org/
 
 [node]: https://nodejs.org/en/
 
